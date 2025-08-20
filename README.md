@@ -33,4 +33,6 @@ The dataset includes the following features:
 
 ## 🚀 How to Run   
    ```bash
-   git clone https://github.com/adarshunknown/EDA-on-Pima-Diabetic-Dataset cd
+   git clone https://github.com/adarshunknown/Eda-on-Insurance-Dataset.git
+   jupyter notebook "Eda on Insurance Dataset.ipynb"
+
